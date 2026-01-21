@@ -283,29 +283,14 @@ Upon termination:
 
 ## 17. Governing Law and Dispute Resolution
 
-### Governing Law
+### 17.1 Governing Law
+These Terms are governed by the laws of the Kyrgyz Republic.
 
-These Terms are governed by the laws of Chuy/Kyrgyz Republic, without regard to conflict of law provisions.
+### 17.2 Dispute Resolution
+We aim to resolve any issues amicably. Please contact us at isabekove@gmail.com with any concerns before pursuing formal action. We will make our best effort to address your concerns within 30 days.
 
-### Dispute Resolution
-
-**Informal Resolution**
-- Contact us first to resolve disputes: isabekove@gmail.com
-- We will attempt to resolve within 30 days
-
-**Arbitration** (if applicable)
-- Disputes will be resolved through binding arbitration
-- Arbitration in Chuy/Tokmok
-- Governed by American Arbitration Association rules
-
-**Exceptions**
-- Small claims court
-- Intellectual property disputes
-- Emergency injunctive relief
-
-### Class Action Waiver
-
-You agree to resolve disputes individually, not as part of a class action or collective proceeding.
+### 17.3 Jurisdiction
+Any disputes that cannot be resolved amicably shall be subject to the exclusive jurisdiction of the courts of Chuy Region, Kyrgyz Republic.
 
 ## 18. App Store Terms
 
