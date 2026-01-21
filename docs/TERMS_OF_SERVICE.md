@@ -361,7 +361,7 @@ If you provide feedback, suggestions, or ideas about the App:
 
 **In Plain English:**
 - Use the App responsibly and legally
-- Free tier has 3 reminders, Premium is unlimited
+- Free tier has 5 reminders, Premium is unlimited
 - Premium costs $2.99/month or $19.99/year
 - We may change prices or features with notice
 - Don't rely on Cue for critical or emergency reminders
