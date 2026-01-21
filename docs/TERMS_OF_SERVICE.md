@@ -18,7 +18,7 @@ Cue is a voice-powered reminder application that allows you to:
 ### Service Types
 
 **Free Version**
-- Up to 3 reminders
+- Up to 5 reminders
 - Basic voice recognition
 - Time-based reminders
 - Daily recurrence
@@ -285,17 +285,17 @@ Upon termination:
 
 ### Governing Law
 
-These Terms are governed by the laws of [Your State/Country], without regard to conflict of law provisions.
+These Terms are governed by the laws of Chuy/Kyrgyz Republic, without regard to conflict of law provisions.
 
 ### Dispute Resolution
 
 **Informal Resolution**
-- Contact us first to resolve disputes: [your-email@example.com]
+- Contact us first to resolve disputes: isabekove@gmail.com
 - We will attempt to resolve within 30 days
 
 **Arbitration** (if applicable)
 - Disputes will be resolved through binding arbitration
-- Arbitration in [Your State/City]
+- Arbitration in Chuy/Tokmok
 - Governed by American Arbitration Association rules
 
 **Exceptions**
@@ -336,10 +336,7 @@ These Terms, along with our Privacy Policy, constitute the entire agreement betw
 
 For questions about these Terms:
 
-**Email**: [your-email@example.com]  
-**Support**: Available in App Settings  
-**GitHub**: [your-github-username]/cue-app  
-**Address**: [Your Business Address]
+**Email**: isabekove@gmail.com
 
 ## 24. Apple-Specific Terms
 
@@ -364,7 +361,7 @@ You represent that:
 
 ## 25. Privacy
 
-Your use of the App is also governed by our Privacy Policy, available at [https://fobass.github.io/cue/PRIVACY_POLICY]. By using the App, you consent to our Privacy Policy.
+Your use of the App is also governed by our Privacy Policy, available at https://fobass.github.io/cue/PRIVACY_POLICY. By using the App, you consent to our Privacy Policy.
 
 ## 26. Feedback
 
