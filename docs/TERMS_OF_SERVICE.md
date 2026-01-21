@@ -364,7 +364,7 @@ You represent that:
 
 ## 25. Privacy
 
-Your use of the App is also governed by our Privacy Policy, available at [link-to-privacy-policy]. By using the App, you consent to our Privacy Policy.
+Your use of the App is also governed by our Privacy Policy, available at [https://fobass.github.io/cue/PRIVACY_POLICY)]. By using the App, you consent to our Privacy Policy.
 
 ## 26. Feedback
 
