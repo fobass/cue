@@ -188,7 +188,7 @@ If you are a California resident, you have the right to:
 - Opt-out of the sale of personal information (we do not sell personal information)
 - Non-discrimination for exercising your rights
 
-To exercise these rights, contact us at [isabekove@gmail.com]
+To exercise these rights, contact us at isabekove@gmail.com
 
 ## European Privacy Rights (GDPR)
 
@@ -201,7 +201,7 @@ If you are in the European Union, you have the right to:
 - Object to processing
 - Withdraw consent at any time
 
-To exercise these rights, contact us at [isabekove@gmail.com]
+To exercise these rights, contact us at isabekove@gmail.com
 
 ## Changes to This Privacy Policy
 
@@ -216,7 +216,7 @@ Your continued use of the app after changes constitutes acceptance of the update
 
 If you have questions or concerns about this Privacy Policy, please contact us:
 
-**Email**: [isabekove@gmail.com]
+**Email**: isabekove@gmail.com
 
 ## Transparency
 
